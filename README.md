@@ -11,7 +11,7 @@ This repository contains the work done for NLP Lab 4 as part of the Master's pro
 - **Evaluation**: Evaluated the models using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared metrics. The Bidirectional RNN model performed the best.
 
 ### Part 2: Text Generation with GPT-2
-- **Fine-Tuning GPT-2**: Fine-tuned the pre-trained GPT-2 model on a custom dataset of text prompts.
+- **Fine-Tuning GPT-2**: Fine-tuned the pre-trained GPT-2 model on a custom dataset of Midjourney image generation prompts.
 - **Text Generation**: Generated text based on given prompts, demonstrating the model's ability to produce coherent and relevant text.
 
 ### Part 3: Text Classification with BERT
@@ -57,10 +57,14 @@ The lab provided hands-on experience with different NLP models and techniques, e
 
 
 ## Contact
-For any questions or issues, please contact [Your Name] at your_email@example.com.
+For any questions or issues, please contact [me](https://github.com/amine-sabbahi/) at mohamedamine.sabbahi@etu.uae.ac.ma
 
 ---
 
-**Realized by:** [SABBAHI MOHAMED AMINE](https://github.com/amine-sabbahi/)  
-**Framed by:** Pr. ELAACHAK LOTFI  
-**Abdelmalek Essaadi University, Faculty of Science and Technology Tangier, Computer Engineering Department, Master: AISD**
+**Abdelmalek Essaadi University** Faculty of Science and Technology Tangier (FSTT)
+   - Department : Computer Engineering
+   - Master : AIDS
+   - Module : NLP
+   - Sujet : LAB 4
+   - Realized by : [SABBAHI MOHAMED AMINE](https://github.com/amine-sabbahi/) 
+   - Framed by : Pr. ELAACHAK LOTFI
