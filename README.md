@@ -1,4 +1,4 @@
-# NLP Lab 4
+<center><h1>NLP Lab 4</h1></center>
 
 ## Overview
 This repository contains the work done for NLP Lab 4 as part of the Master's program in Computer Engineering at Abdelmalek Essaadi University, Faculty of Science and Technology Tangier. The lab focuses on implementing various Natural Language Processing (NLP) techniques, including classification and regression using RNN models, text generation using GPT-2, and text classification using BERT.
