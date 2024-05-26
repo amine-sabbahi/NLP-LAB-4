@@ -63,8 +63,13 @@ The lab provided hands-on experience with different NLP models and techniques, e
     - **ipynb format**: `NLP_LAB_4.ipynb`
 
 
-## Repository Structure
-
+### Repository Structure Description
+- **Datasets**: Contains the datasets used for the lab (AMAZON_FASHION_5.json, midjourney_prompts.csv).
+- **Lab 4.pdf**: The PDF document of the lab instructions.
+- **NLP_LAB_4.ipynb**: Jupyter notebook containing the code and analysis.
+- **README.md**: This readme file.
+- **Synthesis LAB 4 (NLP).pdf**: The synthesis document summarizing the lab work.
+- **requirements.txt** Contains the necessary requirements used in the lab.
 
 ## Contact
 For any questions or issues, please contact [me](https://github.com/amine-sabbahi/) at mohamedamine.sabbahi@etu.uae.ac.ma
