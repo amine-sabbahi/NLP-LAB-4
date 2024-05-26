@@ -34,6 +34,16 @@ This repository contains the work done for NLP Lab 4 as part of the Master's pro
   - **Accuracy**: 98.42%
   - **F1 Score**: 98.40%
 
+## Tools Used
+- **Python**: Programming language for implementing the models.
+- **PyTorch**: Deep learning framework for building and training the RNN, GRU, LSTM, and BERT models.
+- **Transformers**: Hugging Face library for using pre-trained transformer models like GPT-2 and BERT.
+- **NLTK**: Natural Language Toolkit for text preprocessing (tokenization, stemming, lemmatization, stop words removal).
+- **Pandas**: Data manipulation and analysis library for loading and preprocessing datasets.
+- **BeautifulSoup**: Library for web scraping to collect text data from Arabic websites.
+- **Scrapy**: Another web scraping framework used for data collection.
+- **Sklearn**: Scikit-learn library for evaluation metrics.
+
 ## Conclusion
 The lab provided hands-on experience with different NLP models and techniques, enhancing our understanding of how to preprocess text data, fine-tune pre-trained models, and evaluate their performance. These skills are essential for various NLP applications, including sentiment analysis, document classification, and machine translation.
 
